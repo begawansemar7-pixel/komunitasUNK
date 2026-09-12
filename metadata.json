@@ -1,0 +1,6 @@
+{
+  "name": "Komunitas UMKM Naik Kelas",
+  "description": "Bersama Tumbuh, Bersama Naik Kelas — ekosistem komunitas UMKM Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
