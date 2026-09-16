@@ -47,7 +47,7 @@ export function PengurusHero() {
             <Link
               href="/pengurus"
               id="btn-kenali-pengurus"
-              className="mt-7 inline-flex items-center gap-2 rounded-xl bg-amber-400 px-5 py-3 text-sm font-extrabold text-[#071A2B] shadow-xl shadow-black/20 transition-all hover:bg-amber-300 hover:shadow-2xl focus:outline-none focus:ring-2 focus:ring-amber-300 focus:ring-offset-2 focus:ring-offset-[#071A2B] sm:px-6 sm:py-3.5"
+              className="group mt-7 inline-flex items-center gap-2 rounded-xl bg-amber-400 px-5 py-3 text-sm font-extrabold text-[#071A2B] shadow-xl shadow-black/20 transition-all hover:bg-amber-300 hover:shadow-2xl focus:outline-none focus:ring-2 focus:ring-amber-300 focus:ring-offset-2 focus:ring-offset-[#071A2B] sm:px-6 sm:py-3.5"
             >
               <span>Kenali Pengurus</span>
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
